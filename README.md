@@ -108,13 +108,13 @@ Estructura del proyecto
 Diagramas del proyecto
 
 Diagrama Pictórico: muestra la disposición física de todos los componentes en la protoboard.
-![Diagrama pictórico del proyecto](diagramas/Diagrama_Pictorico.png)
+![Diagrama pictórico del proyecto](Diagramas/Diagrama_Pictorico.png)
 
 Diagrama de Bloques: explica la interacción entre los módulos de entrada, procesamiento, comunicación y salida.
-![Diagrama de bloques del proyecto](diagramas/Diagram_de_Bloques.png)
+![Diagrama de bloques del proyecto](Diagramas/Diagram_de_Bloques.png)
 
 Diagrama Esquemático: representa las conexiones eléctricas del sistema.
-![Diagrama esquemático del proyecto](diagramas/Diagrama_Esquematico.png)
+![Diagrama esquemático del proyecto](Diagramas/Diagrama_Esquematico.jpeg)
 
 Resumen Técnico
 
